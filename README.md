@@ -7,7 +7,7 @@
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=adautovazjr&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adautovazjr&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adautovazjr&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" /> </br></br></br>
 </div>
 
 
