@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=transparent)
+
 - 🔭 I’m currently working on Cargill.
 - 🌱 I’m currently learning Java Script.
 - 👯 I’m looking to collaborate on O9 System.
@@ -44,6 +46,8 @@
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+
+
 </div>
 
 
@@ -72,3 +76,8 @@
   
   [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
+
+
+
+#GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+
