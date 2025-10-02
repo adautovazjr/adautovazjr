@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with Python.
 
 ### Linguagens por atividade recente
-![Linguagens](https://raw.githubusercontent.com/adautovazjr/adautovazjr/main/github-metrics.svg)
-
+![Linguagens](https://raw.githubusercontent.com/adautovazjr/adautovazjr/main/github/workflows/metrics.svg
 
 
 
