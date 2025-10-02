@@ -5,6 +5,12 @@
 - 👯 I’m looking to collaborate on O9 System.
 - 🤔 I’m looking for help with Python.
 
+### Linguagens por atividade recente
+![Linguagens](./github-metrics.svg)
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adautovazjr&stats_format=bytes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=radical)
