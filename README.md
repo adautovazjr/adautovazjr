@@ -1,35 +1,14 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adautovazjr&stats_format=bytes)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adautovazjr&hide_progress=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=transparent)
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 
 - 🔭 I’m currently working on Cargill.
 - 🌱 I’m currently learning Java Script.
 - 👯 I’m looking to collaborate on O9 System.
 - 🤔 I’m looking for help with Python.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adautovazjr&stats_format=bytes)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautovazjr&show_icons=true&theme=transparent)
 
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=adautovazjr&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> 
@@ -63,8 +42,6 @@
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-
 </div>
 
 
@@ -78,7 +55,6 @@
 </div>
 
 
-
 <!-- Snake Animation -->
 <div align="center">
 
@@ -87,14 +63,5 @@
 </div>
 
 
-
-<!-- Visit Counter -->
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
-
-
-
-#GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+GitHub Readme Stats comes with several built-in themes (e.g. dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
 
